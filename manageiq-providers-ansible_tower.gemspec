@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = ManageIQ::Providers::AnsibleTower::VERSION
   spec.authors       = ["ManageIQ Authors"]
 
-  spec.summary       = "ManageIQ plugin for the Ansible Tower provider."
-  spec.description   = "ManageIQ plugin for the Ansible Tower provider."
+  spec.summary       = "ManageIQ plugin for the Ansible Automation Platform provider."
+  spec.description   = "ManageIQ plugin for the Ansible Automation Platform provider."
   spec.homepage      = "https://github.com/ManageIQ/manageiq-providers-ansible_tower"
   spec.license       = "Apache-2.0"
 

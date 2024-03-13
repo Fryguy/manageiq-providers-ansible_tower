@@ -8,7 +8,7 @@
 
 [![Build history for master branch](https://buildstats.info/github/chart/ManageIQ/manageiq-providers-ansible_tower?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://github.com/ManageIQ/manageiq-providers-ansible_tower/actions?query=branch%3Amaster)
 
-ManageIQ plugin for the Ansible Tower provider.
+ManageIQ plugin for the Ansible Automation Platform provider.
 
 ## Development
 

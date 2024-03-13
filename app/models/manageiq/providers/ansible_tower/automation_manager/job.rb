@@ -8,7 +8,7 @@ class ManageIQ::Providers::AnsibleTower::AutomationManager::Job <
   belongs_to :playbook, :foreign_key => :configuration_script_base_id
 
   def self.display_name(number = 1)
-    n_('Ansible Tower Job', 'Ansible Tower Jobs', number)
+    n_('Ansible Automation Platform Job', 'Ansible Automation Platform Jobs', number)
   end
 
   def refresh_ems
